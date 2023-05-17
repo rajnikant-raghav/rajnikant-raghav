@@ -1,9 +1,9 @@
-[![MasterHead](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1100&t=st=1684318492~exp=1684319092~hmac=9d7c6ab49ea2b12b61d8531fff4444c88ee75dbb866f392a5e2043f9ce831d30)](https://rishavchanda.io)
+[![MasterHead](https://reviewnprep.com/blog/wp-content/uploads/2022/10/Full-Stack-Developer-Guide.png)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi there👋, I'm Rajnikant Raghav</h1>
 <h3 align="center">I'm a passionate full stack developer with a keen interest in creating robust and scalable web applications. 💻 With a strong background in both front-end and back-end development! Happy coding! 😄</h3>
-<img align='right' src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" width="350">
+<img align='right' src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" width="290">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnikant-raghav&label=Profile%20views&color=0e75b6&style=flat" alt="rajnikant-raghav" /> </p>
