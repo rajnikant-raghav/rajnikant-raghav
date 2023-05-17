@@ -1,4 +1,4 @@
-[![MasterHead](https://reviewnprep.com/blog/wp-content/uploads/2022/10/Full-Stack-Developer-Guide.png)](https://rishavchanda.io)
+[![MasterHead](https://freehtmldesigns.com/wp-content/uploads/2022/06/developer.jpg)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi there👋, I'm Rajnikant Raghav</h1>
