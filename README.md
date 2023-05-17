@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnikant-raghav&label=Profile%20views&color=0e75b6&style=flat" alt="rajnikant-raghav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajnikant-raghav" alt="rajnikant-raghav" /></a> </p>
+
 
 - 🔭 I’m currently working on **Social-media BackEnd**
 
@@ -29,6 +29,8 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/11EUUH00HNK0XR8VstU2v4sYP9WgIsNeSDg6Ee38LCiI/edit](https://docs.google.com/document/d/11EUUH00HNK0XR8VstU2v4sYP9WgIsNeSDg6Ee38LCiI/edit)
 
 - Happy coding! 😄
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajnikant-raghav" alt="rajnikant-raghav" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
