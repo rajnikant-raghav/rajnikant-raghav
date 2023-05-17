@@ -1,4 +1,4 @@
-[![MasterHead](https://freehtmldesigns.com/wp-content/uploads/2022/06/developer.jpg)](https://rishavchanda.io)
+[![MasterHead](https://github.com/rajnikant-raghav/rajnikant-raghav/blob/main/fullstack.jpg?raw=true)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi there👋, I'm Rajnikant Raghav</h1>
