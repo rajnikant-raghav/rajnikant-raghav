@@ -1,7 +1,10 @@
 [![MasterHead](https://github.com/rajnikant-raghav/rajnikant-raghav/blob/main/fullstack.jpg?raw=true)](https://rishavchanda.io)
 
 
-<h1 align="center">Hi there👋, I'm Rajnikant Raghav</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Rajnikant Raghav</h1>
 <h3 align="center">I'm a passionate full stack developer with a keen interest in creating robust and scalable web applications. 💻 With a strong background in both front-end and back-end development! Happy coding! 😄</h3>
 <img align='right' src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" width="290">
 
